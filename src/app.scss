@@ -5,7 +5,7 @@
 }
 
 html {
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: y proximity;
     scroll-behavior: smooth;
     font-family: 'DM Sans', sans-serif;
 }
