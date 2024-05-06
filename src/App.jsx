@@ -7,14 +7,14 @@ import Navbar from './components/navbar/Navbar';
 const App = () => {
   return (
     <div>
-      <section>
+      <section id="home">
         <Navbar />
       </section>
 
-      <section>3</section>
-      <section>4</section>
-      <section>5</section>
-      <section>6</section>
+      <section id="services">3</section>
+      <section id="portfolio">4</section>
+      <section id="about">5</section>
+      <section id="contact">6</section>
     </div>
   );
 };
