@@ -2,6 +2,7 @@ import React from 'react';
 import './app.scss';
 
 import Navbar from './components/navbar/Navbar';
+import Hero from './components/hero/Hero';
 
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
     <div>
       <section id="home">
         <Navbar />
+        <Hero />
       </section>
 
       <section id="services">3</section>
