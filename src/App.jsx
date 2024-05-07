@@ -37,11 +37,6 @@ const App = () => {
       <section id="contact">
         <Contact />
       </section>
-
-      <section>
-      </section>
-
-      <section id="about"></section>
     </div>
   );
 };
